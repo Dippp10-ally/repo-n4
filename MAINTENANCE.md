@@ -6,4 +6,4 @@ Update README with installation instructions
 
 ## Updated
 
-2026-11-27 09:12:08 UTC
+2026-11-28 08:31:41 UTC
